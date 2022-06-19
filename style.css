@@ -1,89 +1,91 @@
-body{
-    background-color: red   ;
+body {
+    background-color: red;
 }
 
 /* margin top */
 
-.mt_35{
+.mt_35 {
     margin-top: 35px;
 }
 
-.mt_190{
+.mt_190 {
     margin-top: 190px;
 }
 
-.mt_130{
+.mt_130 {
     margin-top: 130px;
 }
 
-.mt_70{
+.mt_70 {
     margin-top: 70px;
 }
 
-.mt_15{
+.mt_15 {
     margin-top: 15px;
 }
 
-.mt_450{
+.mt_450 {
     margin-top: 450px;
 }
 
-.mt_100{
+.mt_100 {
     margin-top: 100px;
 }
 
-.mt_150{
+.mt_150 {
     margin-top: 150px;
 }
 
-.mt_50{
+.mt_50 {
     margin-top: 50px;
 }
 
-.mt_200{
+.mt_200 {
     margin-top: 200px;
 }
 
-.mt_80{
+.mt_80 {
     margin-top: 80px;
 }
 
-.mt_180{
+.mt_180 {
     margin-top: 180px;
 }
 
-.mt_47{
+.mt_47 {
     margin-top: 47px;
 }
 
-.mt_35{
+.mt_35 {
     margin-top: 35px;
 }
+
 /* margin left */
 
-.ml_15{
+.ml_15 {
     margin-left: 15px;
 }
 
 /* margin right */
 
-.mr_270{
+.mr_270 {
     margin-right: 270px;
 }
 
-.mr_15{
+.mr_15 {
     margin-right: 15px;
 }
 
 /* margin bottom  */
 
-.mb_15{
+.mb_15 {
     margin-bottom: 15px;
 }
 
-.mb_110{
+.mb_110 {
     margin-bottom: 110px;
 }
+
 /* section 1  */
 
 
@@ -96,7 +98,7 @@ body{
     background-size: 100%;
 }
 
-.bg_white{
+.bg_white {
     /* background-color: #fcfefc; */
 }
 
@@ -104,25 +106,22 @@ body{
 @font-face {
     font-family: Poppins-Bold;
     src: url("fonts/Poppins/Poppins-Bold.ttf");
-  }
+}
 
-.left_side
-{
+.left_side {
     width: 70%;
 }
 
-.nav_bar
-{
-    float: left;    
+.nav_bar {
+    float: left;
 }
 
-.nav_bar ul
-{
+.nav_bar ul {
     padding: 0px;
     margin: 0px;
 }
 
-.nav_bar ul li{
+.nav_bar ul li {
     float: left;
     list-style: none;
     /* display: inline; */
@@ -137,7 +136,7 @@ body{
     color: #ffff;
 }
 
-.nav_bar ul li a:hover{
+.nav_bar ul li a:hover {
     background-color: #db341e;
     color: #fcfefc;
 }
@@ -152,10 +151,11 @@ body{
 }
 
 @font-face {
-    font-family:Poppins-Regular ;
+    font-family: Poppins-Regular;
     src: url("fonts/Poppins/Poppins-Regular.ttf");
 }
-.para_1 p{
+
+.para_1 p {
     color: #ffff;
     font-style: Poppins-Regular;
 }
@@ -163,7 +163,7 @@ body{
 /* btn_1 */
 
 .button {
-    background-color:  #db341e; 
+    background-color: #db341e;
     border: none;
     color: white;
     /* padding: 15px 32px; */
@@ -177,29 +177,27 @@ body{
     text-transform: uppercase;
     font-style: Poppins-Regular;
 
-  }
+}
 
-  .button:hover{
-      color: black;
-      text-decoration: none;
-  }
-  
-
+.button:hover {
+    color: black;
+    text-decoration: none;
+}
 
 
 
-.contact_details_navbar 
-{
+
+
+.contact_details_navbar {
     float: right;
 }
 
-.contact_details_navbar ul
-{
+.contact_details_navbar ul {
     padding: 0px;
     margin: 0px;
 }
 
-.contact_details_navbar ul li{
+.contact_details_navbar ul li {
     float: left;
     list-style: none;
 }
@@ -214,8 +212,9 @@ body{
     padding: 34px 15px;
     color: #ffff;
 }
+
 /* bg_2 */
-.bg_2{
+.bg_2 {
     background-color: #dc3822;
     min-height: 950px;
     width: 100%;
@@ -239,7 +238,7 @@ body{
 
 /* section 2 start  */
 
-.bg_3{
+.bg_3 {
     background-image: url("IMG/bg2_with_intruments.png");
     background-color: #1f1d47;
     min-height: 950px;
@@ -249,19 +248,19 @@ body{
 
 /* bg_3 */
 
-.upcoffee_cup2 img{
+.upcoffee_cup2 img {
     width: 658px;
 
 }
 
-.about_zon_coffee h1{
+.about_zon_coffee h1 {
     font-family: Poppins-Bold;
     text-transform: uppercase;
     color: #ffff;
     font-size: 40px
 }
 
-.para_2 p{
+.para_2 p {
     color: #ffff;
     font-size: 13px;
 }
@@ -274,7 +273,8 @@ body{
     margin-left: 0px;
     margin-right: 0px;
 }
-.bg_4{
+
+.bg_4 {
     /* background-image: url("IMG/bg2_with_intruments.png"); */
     background-color: #1f1d47;
     min-height: 950px;
@@ -282,14 +282,14 @@ body{
     background-size: 100%;
 }
 
-.coffee_service h1{
+.coffee_service h1 {
     font-family: Poppins-Bold;
     text-align: center;
     color: #ffff;
     text-transform: uppercase;
 }
 
-.para_3{
+.para_3 {
     color: #ffff;
     text-align: center;
     font-family: Poppins-Regular;
@@ -299,19 +299,21 @@ body{
 
 
 
-.coffee_services_1 img{
+.coffee_services_1 img {
     width: 100%;
 }
 
-.coffee_services_2 img{
+.coffee_services_2 img {
     width: 100%;
 }
 
-.coffee_services_3 img{
+.coffee_services_3 img {
     width: 100%;
 }
 
-.red_coffee h1,.black_coffee h1,.choclate_coffee h1 {
+.red_coffee h1,
+.black_coffee h1,
+.choclate_coffee h1 {
     font-family: Poppins-Bold;
     text-align: center;
     color: #ffff;
@@ -319,7 +321,9 @@ body{
     font-size: 20pt;
 }
 
-.red_coffee p,.black_coffee p ,.choclate_coffee p {
+.red_coffee p,
+.black_coffee p,
+.choclate_coffee p {
     font-family: Poppins-Regular;
     text-align: center;
     color: #ffff;
@@ -340,11 +344,11 @@ body{
     text-align: center;
     color: #ffff;
     font-size: 12pt; */
-    /* font-size: 15; */
+/* font-size: 15; */
 /* } */
 
 
-.btn_3{
+.btn_3 {
     text-align: center;
 }
 
@@ -364,7 +368,7 @@ body{
 }
 
 
-.get_in_touch h1{
+.get_in_touch h1 {
     text-transform: uppercase;
     font-family: Poppins-Bold;
     color: #ffff;
@@ -380,7 +384,7 @@ body{
     /* box-sizing: border-box; */
 }
 
-  .your_info .name {
+.your_info .name {
     padding: 20px;
     margin: 8px -10px;
     width: 100%;
@@ -390,11 +394,11 @@ body{
     /* float: left; */
 }
 
-.your_info{
+.your_info {
     border-right: 1px solid whitesmoke;
 }
 
-.btn_4{
+.btn_4 {
     text-align: center;
 }
 
@@ -402,12 +406,12 @@ body{
     border-radius: 150px;
 }
 
-.border_left_side{
+.border_left_side {
     border-right: 5px solid whitesmoke;
 }
 
 
-.testimonial h1{
+.testimonial h1 {
     text-transform: uppercase;
     color: #ffff;
 }
@@ -423,13 +427,23 @@ body{
     font-weight: bold;
 }
 
-.square_on_square img {
-    margin: -63px  27px;
-    /* background-image: url(IMG/bg3_with_orangecolor.png); */
+/* .square_on_square img {
+    margin: -63px 27px; */
+     /* background-image: url(IMG/bg3_with_orangecolor.png); */
+/* } */
+.customer_img {
+    box-shadow: -12px -11px 0px -2px #db341e;
 }
 
+.mar_display{
+    margin: 28px;
+}
+
+.square_on_square {
+    margin-top: -76px;
+}
 .customer_img img {
-    margin: -67px  40px;
+    /* margin: -67px 40px; */
 }
 
 .customer_info h1 {
@@ -442,8 +456,8 @@ body{
     font-family: Poppins-Bold;
     font-size: 14pt;
     color: #db3620
-
 }
+
 .customer_info h5 {
     font-family: Poppins-Bold;
     font-size: 14pt;
@@ -452,8 +466,16 @@ body{
 }
 
 /* .downward_coffee_beans img{
-
+   margin-left: -95px;
 }    */
+
+/* .downward_coffee_beans img {
+    margin-left: 134px;
+}*/
+
+.downward_coffee_beans img {
+    margin-left: -65px;
+}
 
 /* section 4 ends  */
 
@@ -461,7 +483,7 @@ body{
 
 /* section 5 ends  */
 
-.half_coffee-cup img{
+.half_coffee-cup img {
     /* width: 100%; */
     display: block;
     margin-left: auto;
@@ -476,7 +498,7 @@ body{
     height: 71px;
 }
 
-.logo_again_2 h1{
+.logo_again_2 h1 {
     font-family: Poppins-Bold;
     font-size: 35pt;
     text-align: center;
@@ -485,7 +507,7 @@ body{
 
 }
 
-.logo_again_2 h3{
+.logo_again_2 h3 {
     font-family: Poppins-Bold;
     font-size: 20pt;
     text-align: center;
@@ -508,14 +530,13 @@ body{
     font-size: 30pt;
 }
 
-.menu_last ul
-{
+.menu_last ul {
     padding: 0px;
     margin: 0px;
 
 }
 
-.menu_last ul li{
+.menu_last ul li {
     /* float: left; */
     list-style: none;
     /* display: inline; */
@@ -541,14 +562,15 @@ body{
     font-family: Poppins-Bold;
     font-size: 30pt;
 }
-.follow_us_last ul{
+
+.follow_us_last ul {
     padding: 0px;
     margin: 0px;
 }
 
 
 
-.follow_us_list ul li{
+.follow_us_list ul li {
     list-style: none;
     display: inline;
 }
@@ -560,13 +582,14 @@ body{
 }
 
 .follow_us_list ul li a i {
-    font-size: 21pt; 
+    font-size: 21pt;
 }
 
-.three_contact_details ul li{
+.three_contact_details ul li {
     list-style: none;
-    
+
 }
+
 .three_contact_details ul li a {
     text-decoration: none;
     color: #ffff;
@@ -580,7 +603,7 @@ body{
     margin-bottom: -35px;
 }
 
-.copy_right h1{
+.copy_right h1 {
     font-size: 17pt;
     font-family: Poppins-Regualar;
     color: #ffff;
@@ -589,10 +612,8 @@ body{
 }
 
 
+.dis_desktop{
+    display: none;
+}
+
 /* section 5 ends  */
-
-
-
-
-
-

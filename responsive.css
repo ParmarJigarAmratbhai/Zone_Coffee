@@ -1,0 +1,23 @@
+@media screen and (max-width: 1536px) {
+    .dis_desktop{
+        display: block;
+
+    }
+   
+  }
+
+
+@media screen and (max-width: 500px) {
+    
+    .dis_desktop{
+        display: block;
+
+    }
+  }
+
+  @media screen and (max-width:968px) {
+    
+    .downward_coffee_beans img {
+        margin-left: -86px;
+    }
+  }
